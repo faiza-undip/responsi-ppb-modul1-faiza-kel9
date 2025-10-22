@@ -4,9 +4,6 @@ package-lock.json
 # Environment variables
 .env
 
-# Vercel
-.vercel
-
 # Logs
 logs
 *.log
