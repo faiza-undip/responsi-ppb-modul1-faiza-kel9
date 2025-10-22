@@ -5,7 +5,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-Database-orange)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
 
-* Link Deploy (Vercel): 
+* Link Deploy (Vercel): https://responsi-ppb-modul1-faiza-kel9.vercel.app/
 
 ## Deskripsi Umum
 
